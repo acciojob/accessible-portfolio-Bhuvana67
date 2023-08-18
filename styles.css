@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+.my{
+	display:inline;
+	margin:0px 20px;
+}
+h1{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:black;
+	
+}
+img{
+	width:100px;
+	height:100px;
+}
